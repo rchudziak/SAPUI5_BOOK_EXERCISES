@@ -1,0 +1,9 @@
+{
+  "mockpreview": {
+    "mockUri": "webapp/service/data.json",
+    "metadataFilePath": "../../chapter-9/smart-table-without-personalisation/webapp/localService/metadata.xml",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "run": [
+    {
+      "filePath": "/chapter-6/crud-rest-service-with-delete/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8717022,
+        "displayName": "Run index.html 5",
+        "lastRunTimeStamp": 1494361389804
+      }
+    },
+    {
+      "filePath": "/chapter-4/app-mvc-simple-app-descriptor/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 895401,
+        "displayName": "Run index.html 1",
+        "lastRunTimeStamp": 1492007471700
+      }
+    },
+    {
+      "filePath": "/chapter-4/app-simple-one-page-one-file/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 3170723,
+        "displayName": "Run index.html 4",
+        "lastRunTimeStamp": 1492007459477
+      }
+    },
+    {
+      "filePath": "/chapter-4/app-mvc-simple-wo-resourcebundle/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 9368623,
+        "displayName": "Run index.html 3",
+        "lastRunTimeStamp": 1484565476491
+      }
+    },
+    {
+      "filePath": "/chapter-4/app-mvc-simple/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 6393127,
+        "displayName": "Run index.html 2",
+        "lastRunTimeStamp": 1484565185335
+      }
+    },
+    {
+      "filePath": "/SAPUI5_book_exercises/chapter-4/app-simple-component/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "fiorirunner",
+        "id": 9546708,
+        "displayName": "Run Component.js",
+        "lastRunTimeStamp": 1484564839899
+      }
+    },
+    {
+      "filePath": "/chapter-7/odata-model-write-edit-delete-supplier/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1051203,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1484564744871
+      }
+    }
+  ]
+}
